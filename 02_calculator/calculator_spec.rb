@@ -73,27 +73,3 @@ describe "sum" do
   end
 end
 
-# Extra Credit Test-Driving Bonus:
-# once the above tests pass,
-# write tests and code for the following:
-
-describe "#multiply" do
-
-  it "multiplies two numbers"
-
-  it "multiplies several numbers"
-
-end
-
-describe "#power" do
-  it "raises one number to the power of another number"
-end
-
-# http://en.wikipedia.org/wiki/Factorial
-describe "#factorial" do
-  it "computes the factorial of 0"
-  it "computes the factorial of 1"
-  it "computes the factorial of 2"
-  it "computes the factorial of 5"
-  it "computes the factorial of 10"
-end
